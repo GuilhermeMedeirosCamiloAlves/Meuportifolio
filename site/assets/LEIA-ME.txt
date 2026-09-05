@@ -1,0 +1,11 @@
+As capas dos projetos (projeto-1.svg, projeto-2.svg, projeto-3.svg) já são
+imagens de verdade — gráficos abstratos gerados no estilo do site, então o
+site funciona liso mesmo sem fotos suas.
+
+Quando tiver screenshots reais dos seus projetos, é só substituir:
+- projeto-1.svg, projeto-2.svg, projeto-3.svg → pelas capas reais (.jpg ou .png)
+- foto-perfil.jpg → sua foto (opcional; se não existir, aparecem suas
+  iniciais "GA" no lugar, então não quebra nada)
+
+Lembre de atualizar o "src" no HTML se trocar a extensão do arquivo
+(de .svg para .jpg, por exemplo).
